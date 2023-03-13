@@ -1,0 +1,22 @@
+img {
+    display: block;
+    width: 100%;
+    height: 10rem;
+    object-fit: cover;
+}
+
+.btn-imagen {
+    display: block;
+    text-align: center;
+    background-color: rgb(30 58 138);
+    padding: 0.5rem 1rem;
+    font-weight: bold;
+    color: white;
+}
+.btn-imagen:hover {
+    background-color: rgb(30 64 175);
+}
+
+.border-pix {
+    border: 0.1rem solid white;
+}
